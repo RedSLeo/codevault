@@ -1,0 +1,10 @@
+# Python
+__pychache__/
+*.pyc
+venv/
+
+# Environment
+.env
+
+# VS Code settings
+.code/
